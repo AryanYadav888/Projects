@@ -22,7 +22,7 @@
 
 ## 🧩 Project Architecture
 
-
+```
 ecommerce-app/
 │
 ├── src/
@@ -46,7 +46,7 @@ ecommerce-app/
 │
 ├── pom.xml
 └── README.md
----
+```
 
 
 ---
