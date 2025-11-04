@@ -22,7 +22,7 @@
 
 ## 🧩 Project Architecture
 
----
+
 ecommerce-app/
 │
 ├── src/
